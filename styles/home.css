@@ -1,0 +1,128 @@
+.home {
+  display: flex;
+  padding-top: 153px;
+}
+.home button {
+  width: 263.53px;
+  height: 51px;
+  background-color: #f7ba0e;
+  gap: 10px;
+  border-radius: 26px;
+  border: none;
+}
+.laptop_left {
+  display: flex;
+  flex-direction: column;
+  
+  width: 561px;
+  height: 312px;
+  line-height: 60px;
+}
+.three_card {
+  padding-top: 140px;
+  display: flex;
+  gap: 20px;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 20px;
+  background-color: #1391ce;
+  border-radius: 8px;
+  width: 351px;
+  height: 189px;
+  color: white;
+  font-size: 22px;
+  justify-content: center;
+  align-items: center;
+  padding: 0 50px;
+}
+.built {
+  display: flex;
+  padding-top: 100px;
+  gap: 60px;
+}
+.built h3 {
+  color: #25468a;
+  font-size: 16px;
+}
+.built h1 {
+  color: #1391ce;
+  font-size: 32px;
+  padding-top: 20px;
+}
+.built p {
+  padding-top: 20px;
+  color: #4f4f4f;
+  width: 448px;
+  height: 144px;
+  font-size: 18px;
+}
+.settings {
+  display: flex;
+  padding-top: 90px;
+  gap: 40px;
+}
+.settings h3 {
+  color: #25468a;
+  font-size: 16px;
+}
+.settings h1 {
+  color: #1391ce;
+  font-size: 32px;
+  padding-top: 20px;
+}
+.settings p {
+  padding-top: 20px;
+  color: #4f4f4f;
+  width: 448px;
+  height: 144px;
+  font-size: 18px;
+}
+.settings h2 {
+  color: #1391ce;
+}
+.checkbox {
+  color: #4f4f4f;
+  padding-top: 20px;
+}
+.even {
+  display: flex;
+  display: flex;
+  padding-top: 100px;
+  gap: 60px;
+}
+.even h3 {
+  color: #25468a;
+  font-size: 16px;
+}
+.even h1 {
+  color: #1391ce;
+  font-size: 32px;
+  padding-top: 20px;
+}
+.foot {
+  height: 144px;
+  background-color: #1391ce;
+   /* max-width: 1440px;  */
+   width: 100vw;
+  
+}
+.line {
+  display: flex;
+  justify-self: center;
+
+  padding-top: 30px;
+}
+.other {
+    display: flex; 
+    justify-content: space-around;
+    padding-top: 15px; 
+    gap: 400px;
+}
+.little_other{
+    display: flex;
+    font-size: 16px;
+    gap: 5px;
+}

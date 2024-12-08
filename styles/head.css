@@ -1,0 +1,20 @@
+.head {
+  display: flex;
+  height: 54px;
+  justify-content: space-between;
+  padding-top: 41px;
+  align-items: center;
+}
+.head_navigation {
+  display: flex;
+  gap: 32px;
+}
+
+.head button {
+  width: 116px;
+  height: 37px;
+  border-radius: 24px;
+  opacity: 0px;
+  background-color: white;
+  border: none;
+}
